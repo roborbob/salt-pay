@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "//roborbob.github.io/salt-pay/static/css/main.9b7503ff.chunk.css",
+    "main.js": "//roborbob.github.io/salt-pay/static/js/main.96811701.chunk.js",
+    "main.js.map": "//roborbob.github.io/salt-pay/static/js/main.96811701.chunk.js.map",
+    "runtime-main.js": "//roborbob.github.io/salt-pay/static/js/runtime-main.dabc73f8.js",
+    "runtime-main.js.map": "//roborbob.github.io/salt-pay/static/js/runtime-main.dabc73f8.js.map",
+    "static/js/2.5fb0926a.chunk.js": "//roborbob.github.io/salt-pay/static/js/2.5fb0926a.chunk.js",
+    "static/js/2.5fb0926a.chunk.js.map": "//roborbob.github.io/salt-pay/static/js/2.5fb0926a.chunk.js.map",
+    "index.html": "//roborbob.github.io/salt-pay/index.html",
+    "precache-manifest.a02f99b97a0aee30c46f27e381f2ac62.js": "//roborbob.github.io/salt-pay/precache-manifest.a02f99b97a0aee30c46f27e381f2ac62.js",
+    "service-worker.js": "//roborbob.github.io/salt-pay/service-worker.js",
+    "static/css/main.9b7503ff.chunk.css.map": "//roborbob.github.io/salt-pay/static/css/main.9b7503ff.chunk.css.map",
+    "static/js/2.5fb0926a.chunk.js.LICENSE.txt": "//roborbob.github.io/salt-pay/static/js/2.5fb0926a.chunk.js.LICENSE.txt",
+    "static/media/footer.svg": "//roborbob.github.io/salt-pay/static/media/footer.344e3c2f.svg",
+    "static/media/header.svg": "//roborbob.github.io/salt-pay/static/media/header.a7262e2c.svg",
+    "static/media/highlights-customer-service.png": "//roborbob.github.io/salt-pay/static/media/highlights-customer-service.32e29f07.png",
+    "static/media/highlights-loyalty.png": "//roborbob.github.io/salt-pay/static/media/highlights-loyalty.0f3bc1c3.png",
+    "static/media/highlights-pos.png": "//roborbob.github.io/salt-pay/static/media/highlights-pos.fb088a0a.png",
+    "static/media/logo-white.png": "//roborbob.github.io/salt-pay/static/media/logo-white.1e958e47.png",
+    "static/media/logo.svg": "//roborbob.github.io/salt-pay/static/media/logo.627d1e33.svg",
+    "static/media/pos-photos.png": "//roborbob.github.io/salt-pay/static/media/pos-photos.631a8eba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dabc73f8.js",
+    "static/js/2.5fb0926a.chunk.js",
+    "static/css/main.9b7503ff.chunk.css",
+    "static/js/main.96811701.chunk.js"
+  ]
+}
